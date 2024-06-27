@@ -44,7 +44,7 @@ I'm a passionate Full Stack Developer and Android App Developer with experience 
   - Debugged and optimized the app, increasing stability and reliability.
 
 ### 📊 GitHub Stats
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shameer24)](https://git.io/streak-stats)
 ![Shameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shameer24&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shameer24&layout=compact&theme=radical)
 
