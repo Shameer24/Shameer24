@@ -5,7 +5,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Shameer24&color=blueviolet)
 
 ## 📫 Contact Me
-[![Email](https://img.shields.io/badge/Email-me425@njit.edu-red?style=flat&logo=gmail&logoColor=white)](mailto:mohamedshameer2406@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mohamedshameer2406@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:mohamedshameer2406@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mohamed-shameer-eshak)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github&logoColor=white)](https://github.com/Shameer24)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome&logoColor=white)](https://shameer24.github.io/MyPortfolio/)
